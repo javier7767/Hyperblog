@@ -1,5 +1,5 @@
 body{
-    color:#333;
+    color: black;
     text-align:center;
     font-family: 'Courier New', Courier, monospace;
     font-size:16px;
@@ -8,7 +8,8 @@ body{
 }
 
 #cabecera{
-    background: purple;
+    background: orange;
+    color: white;
     box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
     color:#fff;font-weight:700;
     margin:0;padding:.5em
